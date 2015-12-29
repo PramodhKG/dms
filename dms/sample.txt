@@ -1,0 +1,9 @@
+
+Openfire is an instant messaging server that implements the XMPP(jabber) protocol. It features high performance, a robust administration console, and a full plug-in system.
+The server is 100% java
+Openfire is a professional open source project, led by jive Software.
+
+ 
+Openfire is 100% java so java installation on the ubuntu server is mandatory.
+Unfortunately , Openfire does not work with the OpenJDK Java Runtime Environment. So Sun JRE should be installed 
+
